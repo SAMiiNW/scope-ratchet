@@ -1,0 +1,17 @@
+{
+  "network": "StudioNet",
+  "contract": "0xDA93F6cd63268E54Da3EF3B0E8036FE39765826b",
+  "deploymentTransaction": "0x7c2a2ef7a6a58afd9a9a98ddfc813b3aeba653c1951e731b1c8ab8dc69d762dc",
+  "recordId": "SR-WEB-1790527976420",
+  "finalState": "RETENDER_REQUIRED",
+  "cumulativeBeforeStopBps": 600,
+  "projectedBps": 1050,
+  "transactions": {
+    "openProcurement": "0x85ab4b0dc43e575df372f3d213e2fe53d34d5e46ce11da8e1459309fb7ccd0bf",
+    "firstOrder": "0x3ecb7e4bb0421d3dacbfca79ebe215caa15d4bcd8ad9e0e0a4b5b7340e8ee98f",
+    "finalizeFirstOrder": "0xb78a452e10edffb5e9054b9ed93ff3a42c5f54daf635c205f233ce9d12a32593",
+    "secondOrder": "0xd329f5f8ae64959dc99a1cc9d1e4ae4a168381f9d30aab264d0d1b635f8d5cfa",
+    "finalizeSecondOrder": "0x39a2c411d2a650b4685808a2ab40a36c95dc63aeb4eb87992f912d99b3a918b3"
+  },
+  "verification": "All five transactions finalized MAJORITY_AGREE with leader execution SUCCESS."
+}

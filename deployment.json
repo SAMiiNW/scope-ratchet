@@ -1,0 +1,13 @@
+{
+  "account": "SAMiiNW",
+  "network": "StudioNet",
+  "wallet": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+  "contractAddress": "0xDA93F6cd63268E54Da3EF3B0E8036FE39765826b",
+  "deploymentTransaction": "0x7c2a2ef7a6a58afd9a9a98ddfc813b3aeba653c1951e731b1c8ab8dc69d762dc",
+  "deploymentResult": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "af7d58f1113da536aeabbb97424b4e193b82adde961f30bc2df9140fd1ca1495",
+  "repository": "https://github.com/SAMiiNW/scope-ratchet",
+  "explorerUrl": "https://explorer-studio.genlayer.com/address/0xDA93F6cd63268E54Da3EF3B0E8036FE39765826b",
+  "evidenceRepositoryPath": "evidence/"
+}

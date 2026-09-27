@@ -1,0 +1,4 @@
+OPERATOR-CREATED TECHNICAL FIXTURE
+0 A single or cumulative change at or above 10 percent of the frozen award requires a new tender.
+1 A change that introduces a new facility, service family, or operational purpose requires a new tender regardless of value.
+2 Adjacent work below the threshold remains reviewable and must preserve the original award objective.
