@@ -33,7 +33,8 @@ RETENDER_REQUIRED -> terminal stop
 
 ```bash
 genvm-lint contracts/contract.py
-python -m pytest -q
+python -m pytest tests/test_surface.py -q
+python -m pytest tests/direct -q
 ```
 
-The adversarial test alters the leader's measured impact. Independent validator recomputation must reject it.
+The direct suite covers roles, cumulative thresholds, challenges, mutated frozen sources, and a forged leader impact. On the current Windows `gltest` build, direct collection is blocked by the SDK loader error `unexpected end of memory`; the recorded StudioNet lifecycle remains the authoritative execution proof.

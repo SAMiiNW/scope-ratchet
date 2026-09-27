@@ -8,6 +8,7 @@
   "deploymentExecution": "SUCCESS",
   "sourceSha256": "af7d58f1113da536aeabbb97424b4e193b82adde961f30bc2df9140fd1ca1495",
   "repository": "https://github.com/SAMiiNW/scope-ratchet",
+  "reviewedSourceCommit": "d0345f84d1881923919e5e1f767133d3118f1c7f",
   "explorerUrl": "https://explorer-studio.genlayer.com/address/0xDA93F6cd63268E54Da3EF3B0E8036FE39765826b",
   "evidenceRepositoryPath": "evidence/"
 }
